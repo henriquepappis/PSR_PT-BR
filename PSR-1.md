@@ -126,7 +126,7 @@ O termo "classe" se refere a todas as classes, interfaces e traits.
 
 ### 4.1. Constantes
 
-Constantes de classe DEVEM ser todas declaradas em letra maiúscula ("upper case") com separados underline.
+Constantes de classe DEVEM ser todas declaradas em letra maiúscula ("upper case") com separadores underline.
 Por exemplo:
 
 ```php
