@@ -92,7 +92,7 @@ Linhas NÃO DEVEM ser maiores do que 80 caracteres; linhas mais longas que isso 
 
 NÃO DEVE haver espaço em branco no final de linhas não-em-branco.
 
-Linhas em branco PODEM ser adcionadas para aumentar a legibilidade e para indicar blocos de código relacionados.
+Linhas em branco PODEM ser adicionadas para aumentar a legibilidade e para indicar blocos de código relacionados.
 
 NÃO DEVE haver mais de um comando ("statement") por linha.
 
@@ -189,7 +189,7 @@ A palavra-chave `var` não deve ser utilizada para declarar uma propriedade.
 
 Não deve haver mais de uma propriedade declarada por instrução.
 
-Nome das propriedades não devem ser prefixados com um único undeline para indicar a visibilidade protegida ou privada.
+Nome das propriedades não devem ser prefixados com um único underline para indicar a visibilidade protegida ou privada.
 
 Uma declaração de propriedade se parece com o seguinte:
 
@@ -316,7 +316,7 @@ As regras gerais de estilo para estruturas de controle são as seguintes:
 
 - DEVE haver um espaço depois da palavra-chave da estrutura de controle
 - NÃO DEVE haver espaço depois do parêntese de abertura
-- NÃO DEVE haver espaço depois do parêntese de fechamento
+- NÃO DEVE haver espaço antes do parêntese de fechamento
 - DEVE haver um espaço entre o parêntese de fechamento e a chave de abertura
 - A estrutura do corpo DEVE ser indentada uma vez
 - A chave de fechamento DEVE vir na próxima linha após o corpo
